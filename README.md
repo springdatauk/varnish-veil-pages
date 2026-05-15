@@ -8,6 +8,7 @@ Publish these static files in a public GitHub repository under the `springdatauk
 
 Expected URLs:
 
+- `https://springdatauk.github.io/varnish-veil-pages/`
 - `https://springdatauk.github.io/varnish-veil-pages/privacy.html`
 - `https://springdatauk.github.io/varnish-veil-pages/support.html`
 
@@ -44,6 +45,7 @@ git push -u origin main
 5. Set Branch to `main` and Folder to `/root`.
 6. Save.
 7. Wait for GitHub Pages to publish.
-8. Confirm both URLs load:
+8. Confirm these URLs load:
+   - `https://springdatauk.github.io/varnish-veil-pages/`
    - `https://springdatauk.github.io/varnish-veil-pages/privacy.html`
    - `https://springdatauk.github.io/varnish-veil-pages/support.html`
